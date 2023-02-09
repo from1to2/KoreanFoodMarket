@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+
+}
+.login-form{
+    display: inline-block;
+}
+.userId{
+    font-size: 1.7vw;
+    width: 30vw;
+    height: 3vw;
+    padding: 10px 22px;
+    margin-bottom: 15px;
+    text-decoration: none;
+}
+.userPw{
+    font-size: 1.7vw;
+    width: 30vw;
+    height: 3vw;
+    padding: 10px 22px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+.userId:focus {
+    outline: none;
+}
+.userPw:focus {
+    outline: none;
+
+}
+.loginiBtn{
+    font-size: 1.8vw;
+    width: 8vw;
+    height: 4vw;
+    padding: 5px 11px;
+    cursor: pointer;
+}
+.loginiBtn:hover {
+    text-decoration: none;
+}

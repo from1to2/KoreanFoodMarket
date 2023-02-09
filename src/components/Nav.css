@@ -1,0 +1,52 @@
+.nav {
+    display : flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 50px;
+    padding: 0 150px;
+    background-color: burlywood;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.first-nav-item a{
+    display: flex;
+    align-items:baseline;
+
+}
+
+.nav-title {
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.south-korea {
+    width: 24px;
+    margin-left:4px;
+}
+
+.fa-shopping-cart {
+    position: relative;
+    cursor: pointer;
+
+}
+.cart-amount {
+    position: absolute;
+    top: -7px;
+    right: -7px;
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    background-color: brown;
+    color: #fff;
+    font-size: 1;
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+   
+    }
+.user {
+    cursor: pointer;
+}

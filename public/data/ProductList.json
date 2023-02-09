@@ -1,0 +1,60 @@
+{
+    "productList": [
+      {
+        "id": 1,
+        "product_name": "Soybean paste",
+        "price": 8000,
+        "product_img": "https://cdn-pro-web-220-178.cdn-nhncommerce.com/kongdutr8424_godomall_com/data/goods/14/08/33/1000000203/1000000203_detail_027.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 2,
+        "product_name": "KimBab",
+        "price": 3000,
+        "product_img": "https://recipe1.ezmember.co.kr/cache/recipe/2016/06/29/e7401296033ab8e4297cd53d71e1bba91.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 3,
+        "product_name": "Kimchi",
+        "price": 10000,
+        "product_img": "http://image.dongascience.com/Photo/2016/11/14787526584108[1].jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 4,
+        "product_name": "Soybean paste stew",
+        "price": 7000,
+        "product_img": "https://m.ssvip.co.kr/web/product/big/202101/dd6b4e3d750c0ab7000dfbd415e827af.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 5,
+        "product_name": "Pork belly",
+        "price": 16000,
+        "product_img": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/201702/27/117f5b49-1d09-4550-8ab7-87c0d82614de.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 6,
+        "product_name": "Bibimbab",
+        "price": 7000,
+        "product_img": "https://health.chosun.com/site/data/img_dir/2021/01/27/2021012702508_0.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 7,
+        "product_name": "Stir-fried Rice Cake",
+        "price": 5000,
+        "product_img": "https://m.myhabit.shop/web/product/extra/big/202205/0e7cb3b65bee7af7a9b7b0a36ba0c5e5.jpg",
+        "is_checked": "false"
+      },
+      {
+        "id": 8,
+        "product_name": "Rib",
+        "price": 18000,
+        "product_img": "https://shop-phinf.pstatic.net/20190207_74/100986059_1549535556978PdUHa_JPEG/%BB%F3%BC%BC%C6%E4%C0%CC%C1%F6%B0%ED%B1%E2%BB%E7%C1%F8.jpg?type=w860",
+        "is_checked": "false"
+      }
+    ]
+  }
