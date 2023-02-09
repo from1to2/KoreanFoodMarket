@@ -55,6 +55,12 @@
         "price": 18000,
         "product_img": "https://shop-phinf.pstatic.net/20190207_74/100986059_1549535556978PdUHa_JPEG/%BB%F3%BC%BC%C6%E4%C0%CC%C1%F6%B0%ED%B1%E2%BB%E7%C1%F8.jpg?type=w860",
         "is_checked": "false"
+      },{
+        "id": 9,
+        "product_name": "Cheonggukjang",
+        "price": 8000,
+        "product_img": "https://s3.ap-northeast-2.amazonaws.com/meesig/v3/prod/image/item/main/215/3d20d252757d48f69c3f40404f11096b20170310151923",
+        "is_checked": "false"
       }
     ]
   }
