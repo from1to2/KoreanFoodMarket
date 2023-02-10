@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import { useSelector } from 'react-redux';
 
 const Detail = () => {
+    const detailItem = useSelector(state=> state.product);
     let params = useParams();
-    //상품의 이름,아이디 -> 파라미터. 
-    //쿼리문은 검색 key, value 값. 
-    console.log('파라미터는',params.id);
+    
     return (
         <div>
-            <h2>상품상세페이지</h2>
-            <h3>제품의 아이디는 {params.id}</h3>
+            <h2>Food Description</h2>
+            {/* <h3>{detailItem.map((item,idx)=>{
+                return(
+                    item.idx+1 === params.id ? item.food_description : null
+                )
+            })}</h3> */}
+            <h3>This food's ID is {params.id}</h3>
         </div>
     );
 };
