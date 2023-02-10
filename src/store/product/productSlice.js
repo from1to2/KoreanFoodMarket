@@ -7,7 +7,7 @@ const productSlice = createSlice({
   name: 'product',
   initialState,
   reducers: {
-    addCart: (state, action) => {
+    productList: (state, action) => {
         console.log('hihi');
     },
 
@@ -15,5 +15,5 @@ const productSlice = createSlice({
   }
 })
 
-export const { addCart } = productSlice.actions //액션 생성함수 자동 리턴.
+export const { productList } = productSlice.actions //액션 생성함수 자동 리턴.
 export default productSlice.reducer

@@ -50,3 +50,13 @@
 .user {
     cursor: pointer;
 }
+
+@media screen and (max-width: 747px) {
+    .nav{
+        display: block;
+    }
+    .first-nav-item{
+        width: 30vw;
+        font-size: 5vw;
+    }
+  }
